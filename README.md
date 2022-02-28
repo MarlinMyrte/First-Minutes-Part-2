@@ -14,22 +14,22 @@ To answer this question we need to:
 
 After getting the Average Points per Minute for each team we can see that the most "stable" team so far this year has been the Phoenix Suns. On the other hand, the OKC Thunder have the largest difference in terms of average ppm between the first 2 minutes of a quarter and the last 10
 
-![alt text](https://github.com/MarlinMyrte/First-Minutes/blob/main/Top%20Bottom%20diff.png "Top-Bottom 3")
+![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/Top%20Bottom%20diff.png "Top-Bottom 3")
 
 
 Now, by adding up the "lost points" of each minute, we can recalculate the results of each game and the standings
 *We have to mention that by doing this recalculation of the scores some ties might occur which makes it impossible to determine the eventual winner of a game. That being said we can only hypothesize on what could have happened in these tied games*
 
 **Eastern Conference**
-![alt text](https://github.com/MarlinMyrte/First-Minutes/blob/main/East%20Standings.png "East")
+![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/East%20Standings.png "East")
 
 
 **Western Conference**
 
-![alt text](https://github.com/MarlinMyrte/First-Minutes/blob/main/West%20Standings.png "West")
+![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/West%20Standings.png "West")
 
-### In the Eastern Conference, we can see that the 76ers jumped a spot from the 3rd place to the 2nd place, the Bulls have 3 ties which could bring them down to the 2nd spot in the East and Charlotte dropped a spot to Toronto and is now 7th
-### In the Western Conference, the Los Angeles Clippers might drop 2 wins because of ties and that could bring them to the 9th place and to the play-in tournament while 2 potential wins in ties from the Kings could bring them to the 12th spot
+### In the Eastern Conference, we can see that the 76ers jumped from the 3rd place to the 2nd place which is something that could change a lot during the Playoffs and also the Wizards went up to the 10th place
+### Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play in tournamet
 
 
 ####################################################################
@@ -46,6 +46,7 @@ We discovered that there are teams which have a larger difference in their offen
 **Western Conference**
 ![](/Images/West%20Standings.png)
 
-In the Eastern Conference, we can see that the 76ers jumped a spot from the 3rd place to the 2nd place, the Bulls have 3 ties which could bring them down to the 2nd spot in the East and Charlotte dropped a spot to Toronto and is now 7th
+In the Eastern Conference, we can see that the 76ers jumped from the 3rd place to the 2nd place which is something that could change a lot during the Playoffs and also the Wizards went up to the 10th place
 
-In the Western Conference, the Los Angeles Clippers might drop 2 wins because of ties and that could bring them to the 9th place and to the play-in tournament while 2 potential wins in ties from the Kings could bring them to the 12th spot
+Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play in tournament
+
