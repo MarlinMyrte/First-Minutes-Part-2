@@ -30,3 +30,22 @@ Now, by adding up the "lost points" of each minute, we can recalculate the resul
 
 ### In the Eastern Conference, we can see that the 76ers jumped a spot from the 3rd place to the 2nd place, the Bulls have 3 ties which could bring them down to the 2nd spot in the East and Charlotte dropped a spot to Toronto and is now 7th
 ### In the Western Conference, the Los Angeles Clippers might drop 2 wins because of ties and that could bring them to the 9th place and to the play-in tournament while 2 potential wins in ties from the Kings could bring them to the 12th spot
+
+
+####################################################################
+FOR PORTFOLIO
+We discovered that there are teams which have a larger difference in their offensive performance in the first 2 minutes of each quarter compared to their offensive performance in the first 10 minutes of each quarter.
+
+![](/Images/Top%20Bottom%20diff.png)
+
+**So what if this "2-minute slump" didn't exist? How would the standings be different?**
+
+**Eastern Conference**
+![](/Images/East%20Standings.png)
+
+**Western Conference**
+![](/Images/West%20Standings.png)
+
+In the Eastern Conference, we can see that the 76ers jumped a spot from the 3rd place to the 2nd place, the Bulls have 3 ties which could bring them down to the 2nd spot in the East and Charlotte dropped a spot to Toronto and is now 7th
+
+In the Western Conference, the Los Angeles Clippers might drop 2 wins because of ties and that could bring them to the 9th place and to the play-in tournament while 2 potential wins in ties from the Kings could bring them to the 12th spot
