@@ -18,7 +18,8 @@ After getting the Average Points per Minute for each team we can see that the Ph
 ![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/Top%20Bottom%20diff.png "Top-Bottom 3")
 
 
-Now, by adding up the "lost points" of each minute, we can recalculate the results of each game and the standings
+Now, by adding up the "lost points" of each minute, we can recalculate the results of each game and the standings.
+
 *We have to mention that by doing this recalculation of the scores some ties might occur which makes it impossible to determine the eventual winner of a game. That being said we can only hypothesize on what could have happened in these tied games*
 
 **Eastern Conference**
