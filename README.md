@@ -13,7 +13,7 @@ To answer this question we need to:
 - Recalculate the score of each game
 - Recalculate the standings
 
-After getting the Average Points per Minute for each team we can see that the most "stable" team so far this year has been the Phoenix Suns. On the other hand, the Sacramento Kings have the largest difference in terms of average ppm between the first 2 minutes of a quarter and the last 10
+After getting the Average Points per Minute for each team we can see that the Phoenix Suns have been the most "stable" team so far this year. On the other hand, the Sacramento Kings have the largest difference in terms of average ppm between the first 2 minutes of a quarter and the last 10
 
 ![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/Top%20Bottom%20diff.png "Top-Bottom 3")
 
