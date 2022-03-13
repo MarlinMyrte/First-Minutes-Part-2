@@ -1,6 +1,7 @@
 # First-Minutes-Part-2
 
 You can find Part 1 [here](https://github.com/MarlinMyrte/First-Minutes-Part-1)
+Please note that the standings are as of February 28th 2022.
 
 ## Based on my previous analysis, we found out that there is an offensive slump in the first 2 minutes of each quarter.
 ## A fair question that can be raised here is whether this "2-minute slump" affects the outcome of the game and how different would the team standings be if all teams didn't have this slump.
