@@ -23,6 +23,7 @@ Now, by adding up the "lost points" of each minute, we can recalculate the resul
 *We have to mention that by doing this recalculation of the scores some ties might occur which makes it impossible to determine the eventual winner of a game. That being said we can only hypothesize on what could have happened in these tied games*
 
 **Eastern Conference**
+
 ![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/East%20Standings.png "East")
 
 
@@ -31,4 +32,6 @@ Now, by adding up the "lost points" of each minute, we can recalculate the resul
 ![alt text](https://github.com/MarlinMyrte/First-Minutes-Part-2/blob/main/West%20Standings.png "West")
 
 ### In the Eastern Conference, we can see that the 76ers jumped from the 3rd place to the 2nd place which is something that could change a lot during the Playoffs and also the Wizards went up to the 10th place
-### Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play in tournamet
+### Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play in tournament
+
+## As we know, even small changes in the seeding of the teams might have a significant impact in determining the NBA Champion. Therefore, it is of high interest for the teams to try and tackle this "2 minute slump"
